@@ -1,0 +1,1 @@
+${Ansi.GREEN} :: Spring Boot File uploader${spring-boot.formatted-version} :: ${Ansi.DEFAULT}
